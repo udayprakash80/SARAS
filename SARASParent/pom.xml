@@ -8,5 +8,6 @@
   <modules>
     <module>SARASCore</module>
     <module>SARASWeb</module>
+    <module>SARASEjb</module>
   </modules>
 </project>
