@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<connections:connections xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:connections="http://www.ibm.com/websphere/wdo/connections">
+  <connection id="oracle 12C">
+    <development xsi:type="connections:rsc-live-connection" id="oracle 12C_dev" name="oracle 12C"/>
+    <runtime xsi:type="connections:driver-manager-connection" auto-deploy="true" class-location="C:\Users\udaya\Eclipse\plugins\oracle.database.driver_16.1.1.201606271458\ojdbc7.jar" id="oracle 12C_runtime" class-name="oracle.jdbc.OracleDriver" url="jdbc:oracle:thin:@localhost:1521:orcl" userid="c##gplus"/>
+  </connection>
+</connections:connections>

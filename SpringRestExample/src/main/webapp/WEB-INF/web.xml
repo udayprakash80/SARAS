@@ -33,5 +33,10 @@
 		<servlet-name>appServlet</servlet-name>
 		<url-pattern>/</url-pattern>
 	</servlet-mapping>
+	<env-entry>
+		<env-entry-name>oracle 12C</env-entry-name>
+		<env-entry-value>jdbc:oracle:thin:@localhost:1521:orcl,oracle.jdbc.OracleDriver,c##gplus,gplus</env-entry-value>
+		<env-entry-type>java.lang.String</env-entry-type>
+	</env-entry>
 
 </web-app>
