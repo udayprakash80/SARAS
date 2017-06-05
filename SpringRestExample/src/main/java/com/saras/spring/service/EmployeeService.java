@@ -1,4 +1,4 @@
-package com.saras.spring.service.impl;
+package com.saras.spring.service;
 
 import java.util.List;
 

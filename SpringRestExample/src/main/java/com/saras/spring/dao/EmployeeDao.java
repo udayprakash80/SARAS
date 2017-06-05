@@ -1,4 +1,4 @@
-package com.saras.spring.dao.impl;
+package com.saras.spring.dao;
 
 import java.util.List;
 

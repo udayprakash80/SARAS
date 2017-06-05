@@ -8,8 +8,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 
-import com.saras.spring.dao.impl.EmployeeDao;
+import com.saras.spring.dao.EmployeeDao;
 import com.saras.spring.model.Employee;
+import com.saras.spring.service.EmployeeService;
 
 
 @Service

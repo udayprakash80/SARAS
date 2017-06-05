@@ -2,7 +2,7 @@
 package com.saras.spring.controller;
 
 import com.saras.spring.model.*;
-import com.saras.spring.service.impl.EmployeeService;
+import com.saras.spring.service.EmployeeService;
 
 import java.util.*;
 
